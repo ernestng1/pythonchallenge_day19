@@ -1,9 +1,9 @@
-<h1>Day 1 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
-<p>For the Day 1 challenge, I created a Band Name Generator concatenates your hometown's name and pet's name to form a band name. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
+<h1>Day 19 of the 100 Days of Code: The Complete Python Pro Bootcamp</h1>
+<p>For the Day 19 challenge, I created a Turtle Racing game that allows users to guess the fastest turtle. This is a culmination of the teaching points that were shared in the tutorial, including the following but not limited to</p>
 <ul>
-  <li>print function</li>
-  <li>variable and naming conventions</li>
-  <li>input function</li>
+  <li>Object-oriented Programming - allowing for "key" input, usage of multiple instances and modification of states</li>
+  <li>conditional statements - while and if</li>
+  <li>Turtle class exploration</li>
 </ul>
 
 <h2>Why am I doing this?</h2>
